@@ -1,11 +1,10 @@
 # Texas Red
-Honestly my Github account is only for private repositories.
-<br>
-Discord: Texas Red#1234
-<br>
-My Site: [texasred.co.uk](https://texasred.co.uk/)
-<br>
-Email me: [texas@texasred.co.uk](mailto:texas@texasred.co.uk)
+Hello! I'm a freelance programmer specializing in C# and JavaScript, with a strong background in developing full-stack applications. <br>
+
+[Email Me](mailto:texas.red@totheempire.net)
+
+[PCAP Analyzer](https://pcap.totheempire.net)
+
 
 
 
